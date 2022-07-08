@@ -1,4 +1,4 @@
-// PRIMEIRO PROGRAMA - HELLO WORLD!
+// PRIMEIRO PROGRAMA - HELLO, WORLD!
 
 fn main (){
     println!("hello, world!");
